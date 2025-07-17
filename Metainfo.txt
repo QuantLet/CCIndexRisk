@@ -1,0 +1,14 @@
+Name of QuantLet : 'CCIndexRisk'
+
+Published in : 'International Review of Economics & Finance (Under Review)'
+
+Description : 'Code for reproducing the results from the paper: Which risk do crypto index investments have?'
+
+Keywords : 'Spectral risk measure, Value-at-risk, Expected shortfall, Cryptocurrency Index, Digital assets, CRIX, Portfolio'
+
+See also : 'SRMforDA'
+
+Author : 'Matúš Horváth'
+
+Submitted : '20 Feb 2024'
+
